@@ -1,8 +1,0 @@
-{
-  "crons": [
-    {
-      "path": "/api/check-mach6",
-      "schedule": "*/30 * * * *"
-    }
-  ]
-}
